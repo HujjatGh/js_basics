@@ -1,1 +1,10 @@
-console.log('It works!')
+myName = 'Chris';
+
+function logName() {
+  console.log(myName);
+}
+
+logName();
+
+var myName;
+
